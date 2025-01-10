@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Oybek Berdiyev
 - 👀 I’m writing in NodeJs Backend
-- 🌱 I’m currently learning Reactjs
 
 # Skills
 
 - **Programming Languages:** Node.js, JavaScript, TypeScript
 - **Web Frameworks/Libraries:** Express.js, NestJS
-- **Telegram Bot Development:** grammy
+- **Telegram Bot Development:** Grammy.js
 - **Real-time Communication:** Socket.io
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **ORM/ODM Libraries:** Knex.js, Sequelize, Mongoose.js, TypeORM, Prisma
