@@ -17,21 +17,6 @@
 - **Containerization:** Docker
 - **Cloud Services:** AWS S3
 
-
-  # My Personal Projects:
-
-- [Minni.uz](https://minni.uz)
-
-  Minni.uz is a website that shortens long URLs and generates QR codes.  
-  It also has a Telegram bot: [Minniuzbot](https://minniuzbot)
-
-- **Uzbekistan Taxi** - Digital Taxi Service
-  
-  URL: [Uzbekistan Taxi Telegram Bot](https://t.me/uzbekistantaxirobot)
-  
-  The Uzbekistan Taxi Telegram bot caters to passengers and drivers traveling between regions of Uzbekistan. Passengers can send ride requests to drivers through the Telegram bot and manage their ads seamlessly. The entire process is systematized and digitized.
-
-
 # My Social Networks
 
 - [UmMa Life Profile](https://ummalife.com/oybekdevuz)
