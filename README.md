@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oybek Berdiyev
-- 👀 I’m writing in NodeJs Backend
+- 👀 NodeJs Backend
 
 # Skills
 
