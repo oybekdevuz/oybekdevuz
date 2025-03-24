@@ -7,7 +7,7 @@
 - **Web Frameworks/Libraries:** Express.js, NestJS
 - **Telegram Bot Development:** Grammy.js
 - **Real-time Communication:** Socket.io
-- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Databases:** PostgreSQL, MongoDB, MySQL, ChromoDB
 - **ORM/ODM Libraries:** Knex.js, Sequelize, Mongoose.js, TypeORM, Prisma
 - **Database Design**
 - **API Development:** GraphQL, Swagger UI, Postman
