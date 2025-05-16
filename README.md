@@ -19,11 +19,11 @@
 
 # My Social Networks
 
-- [UmMa Life Profile](https://ummalife.com/oybekdevuz)
-- [Telegram Profile](https://t.me/oybekdevuz)
-- [Instagram Profile](https://instagram.com/oybekdev.uz)
-- [X Profile](https://x.com/oybekdevuz)
-- [YouTube Channel](https://youtube.com/@oybekdevuz)
+
+- [Telegram](https://t.me/oybekdevuz)
+- [Instagram](https://instagram.com/oybekdev.uz)
+- [X](https://x.com/oybekdevuz)
+- [YouTube](https://youtube.com/@oybekdevuz)
 
 My Website: [oybekdev.uz](https://oybekdev.uz)
 
